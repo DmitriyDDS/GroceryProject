@@ -1,0 +1,1 @@
+export const purple = "#7b01b8";

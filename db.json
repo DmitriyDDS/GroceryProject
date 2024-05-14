@@ -1,0 +1,16 @@
+{
+  "groceryList": [
+    {
+      "id": "1",
+      "title": "Oranges",
+      "quantity": 1,
+      "isSelected": true
+    },
+    {
+      "id": "2",
+      "title": "Apples",
+      "isSelected": false,
+      "quantity": 12
+    }
+  ]
+}
